@@ -19,7 +19,7 @@ public:
                 }
             }
         }
-        ans += x << 1;
+        ans += x *2;
         return ans;
     }
 };
